@@ -1,0 +1,26 @@
+header {
+	width: 690px;
+	float: right; 
+	text-align: left;
+	border-right: 3px;
+} 
+main {
+	float: left; 
+	text-align: left;
+	border-right: 3px;
+}
+aside {
+	width: 690px;
+	height: 600px;
+	float: right; 
+	text-align: left;
+	border-right: 3px;
+	font-size: 18pt;
+} 
+footer {
+	width: 690px;
+	height: 30px;
+	float: right; 
+	text-align: left;
+	border-right: 3px;
+}
